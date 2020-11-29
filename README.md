@@ -19,7 +19,7 @@
     Runge-Kutta's method
    </li> 
    <li>
-    Simplectic methods
+    Symplectic methods
    </li> 
    <li>
     Verlet's method
