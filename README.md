@@ -19,7 +19,7 @@
     Runge-Kutta's method
    </li> 
    <li>
-    Simplectic methods
+    Symplectic methods
    </li> 
    <li>
     Verlet's method
@@ -30,7 +30,7 @@
   </li>
  </ol>
  
- It is necessary to mention two important facts: <b>1st</b> although I've known Python por almost a decade, I'm always learning new stuff, discovering new libraries, improving my coding skills and arguing with myself on whether to keep changing an algorithm or leave it alone; at some point I guess one is confident enough to declare a job well done, but for me it's still a 'well done, but it could be better'.
+ It is necessary to mention two important facts: <b>1st</b> although I've known Python for almost a decade, I'm always learning new stuff, discovering new libraries, improving my coding skills and arguing with myself on whether to keep changing an algorithm or leave it alone; at some point I guess one is confident enough to declare a job well done, but for me it's still a 'well done, but it could be better'.
  
  <b>2nd</b> addressing the methods, when one searches numerical solutions for analytically expensive problems, it is always, <b>always</b> a good starting point to determine if it is even worth the time and effort. How? Studying the existence and uniqueness of the solution being searched. That's when good ol' Maths come in play. These methods can't tell you if you are in good position to even use them, so it is assumed that you are.
  
